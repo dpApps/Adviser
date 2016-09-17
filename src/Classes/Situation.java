@@ -13,7 +13,7 @@ import Servlets.QHandler;
 public class Situation {
     private QHandler qHandler = new QHandler();
     private String question = qHandler.getQuestion(); //вопрос заданый юзером
-
+    int a =19;
 //    метод searchSubjects, который осуществляет поиск ключевых слов в строке
 //    и передает решение о формировании ответа пользователю
 //    соответствующему классу
