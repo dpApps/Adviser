@@ -1,4 +1,4 @@
-<%--
+<%@ page import="Servlets.QHandler" %><%--
   Created by IntelliJ IDEA.
   User: Denis
   Date: 12.09.2016
@@ -27,23 +27,19 @@
 <div class="page-wrapper">
 
 
-  <div class="qest"><em><h2>Задай вопрос вселенскому разуму!</h2></em></div>
+  <div class="qest"><em><h2>  <%QHandler handler = new QHandler();%>
+      <%=handler.getAnswer()%></h2></em></div>
   <div class="imgQest" ><img src="img/qest.png"/></div>
-
-  <div class="qestion"><input value="Где моя тачка бро?" onfocus="this.value=''" width="auto" height="auto" /></div>
-  <div class="button" ><button>Узнать ответ!</button></div>
-
+    <form action="QHandler">
+      <center>
+  <h1><i>Что делать если <input type="text" name="question" onfocus="this.value=''" width="auto" height="auto" /> ? </i></h1>
+  <button>Узнать ответ!</button></center>
+        </form>
 </div>
-
-
-
 
 <script src="assets/jquery/jquery-3.1.0.js"></script>
 <script src="assets/particles/particles.js"></script>
-
 <script src="js/main.js"></script>
 
 </body>
-
-
 </html>

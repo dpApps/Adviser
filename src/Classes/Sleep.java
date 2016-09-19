@@ -1,16 +1,21 @@
 package Classes;
 
-// класс, который отвечает на вопросы, связанные со сном
-
-import java.util.ArrayList;
+import java.util.Random;
 
 /**
- * Created by Denis on 12.09.2016.
+ * Created by Denis on 17.09.2016.
  */
 public class Sleep {
-   static ArrayList<String> answers = new ArrayList<String>();
+    static String[] answers = {
+            "Хватит спать, иди работай!!!", "Выпей бодрящего кофе", "Сон для слабаков!"
+    };
+    static String answer = "";
 
-    static void fillAnswers () {
-        answers.add("");
+    static String answer() {
+        Random random = new Random();
+        answer = answers[random.nextInt(answers.length)];
+        System.out.println(answer);
+        return answer;
     }
+
 }
