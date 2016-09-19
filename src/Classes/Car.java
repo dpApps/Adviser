@@ -5,9 +5,9 @@ import java.util.Random;
 /**
  * Created by Denis on 17.09.2016.
  */
-public class Sleep {
+public class Car {
     static String[] answers = {
-            "Хватит спать, иди работай!!!", "Выпей бодрящего кофе", "Сон для слабаков!"
+            "Машина 1", "Машина 2", "Машина 3"
     };
     static String answer = "";
 
@@ -17,5 +17,4 @@ public class Sleep {
         System.out.println(answer);
         return answer;
     }
-
 }
