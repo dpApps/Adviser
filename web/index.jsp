@@ -17,6 +17,9 @@
 <body>
 
 <div id="particles-js"></div>
+
+<div id="ship"></div>
+
 <div class="page-wrapper">
 
     <div class="qest"><em><h2><%QHandler handler = new QHandler();%>
