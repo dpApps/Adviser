@@ -72,6 +72,7 @@
 	background-color: greenyellow;
 }
 i{/*Что делать если*/
+    display: block;
     font-family: shrift;
     font-size: 10px;
 	z-index:4;
@@ -100,7 +101,7 @@ i{/*Что делать если*/
 }
 
 .imgQest{/*Облачко с вопросом*/
-    display: block;
+    display: none;
 	max-width:400px;
 	position:relative;
     top:-60px;
