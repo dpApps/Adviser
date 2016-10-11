@@ -43,10 +43,18 @@
 #priv{/*Приветствие*/
     display: block;
     font-family: shrift;
-    font-size: 10px;
+    font-size: 12px;
     position: relative;
     top:-125px;
-    left:40px;
+    left:26px;
+    color: #0142DC;
+    text-shadow: 0 -1px rgba(0,0,0,.1);
+    text-decoration: none;
+    user-select: none;
+    outline: none;
+    border: none;
+    -webkit-animation: pulsate 1.2s linear infinite;
+    animation: pulsate 1.2s linear infinite;
 
 }
 .qest{ /*вывод ответа*/
@@ -62,27 +70,24 @@
 
 }
 
-#but1{/*Кнопка ответа*/
-	z-index:4;
-	position: fixed;
-	width: auto;
-	height: auto;
-	top:70%;
-	left:70%;
-	background-color: greenyellow;
-}
+
 i{/*Что делать если*/
+    display: block;
+    position: fixed;
     font-family: shrift;
     font-size: 10px;
-	z-index:4;
-	position: fixed;
-	width: 20%;
-	height: 20%;
 	top:60%;
-	left:65%;
-
-
+	left:66%;
+    color: rgb(245,245,245);
+    text-shadow: 0 -1px rgba(0,0,0,.1);
+    text-decoration: none;
+    user-select: none;
+    outline: none;
+    border: none;
+    -webkit-animation: pulsate 1.2s linear infinite;
+    animation: pulsate 1.2s linear infinite;
 }
+
 .vopros{/*Квадрат с вопросом*/
     display: none;
     opacity: 0.9;
@@ -95,12 +100,10 @@ i{/*Что делать если*/
 	background-size: 30%;
 	background-image: url(../img/qest7.png);
 	background-repeat: no-repeat;
-
-
 }
 
 .imgQest{/*Облачко с вопросом*/
-    display: block;
+    display: none;
 	max-width:400px;
 	position:relative;
     top:-60px;
@@ -115,15 +118,7 @@ i{/*Что делать если*/
 	max-width:100%;
 	height:auto;
 }
-/*.lesson{
-	display:inline-block;
-	top:100px;
-	left:900px;
-	width:38%;
-	height:250px;
-	
-	
-}*/
+
 #ship{/*Фон корабля*/
 	/*opacity: 0.3;*/
 	z-index:2;
@@ -137,8 +132,45 @@ i{/*Что делать если*/
 	background-size: cover;
 
 }
+#but1{/*Кнопка ответа*/
+    margin: 10px auto;
+    width: auto;
+    height: auto;
+    top:70%;
+    left:70%;
+    color: rgb(245,245,245);
+    text-shadow: 0 -1px rgba(0,0,0,.1);
+    text-decoration: none;
+    user-select: none;
+    padding: .3em 1em;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+    box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+    -webkit-animation: pulsate 1.2s linear infinite;
+    animation: pulsate 1.2s linear infinite;
+}
 
+#but1:hover {
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+    cursor: pointer;
+}
 
+#but:active{
+    top: 1px;
+    color: #fff;
+    text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;
+    box-shadow: 0 -1px 3px rgba(0,0,0,.3), 0 1px 1px #fff, inset 0 1px 2px rgba(0,0,0,.8), inset 0 -1px 0 rgba(0,0,0,.05);
+}
+
+@-webkit-keyframes pulsate {
+    50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;}
+}
+@keyframes pulsate {
+    50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;}
+}
 /*.qestion{
 	position:relative;
 	left:650px;
@@ -154,18 +186,7 @@ i{/*Что делать если*/
 	border-radius:100px;
 }*/
 
-/*.button>button:hover{
-    left:10px;
-    background-color:#01FF01;
-    background: -moz-radial-gradient(circle closest-side,#000,#01FF01,#01FF01);
-    background: -ms-radial-gradient(circle closest-side,#000,#01FF01,#01FF01);
-    background: -o-radial-gradient(circle closest-side,#000,#01FF01,#01FF01);
-    background: -webkit-radial-gradient(circle closest-side,#01FF01,#FFF,#01FF01);
-
-
-
-}
-.button>button{
+/*.button{
     width:50px;
     height:50px;
     border-radius:100px;
@@ -173,14 +194,6 @@ i{/*Что делать если*/
     margin-left:1000px;
 
 
-
-}
-
-.button>button:active{
-    top: 1px;
-    color: #fff;
-    text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;
-    box-shadow: 0 -1px 3px rgba(0,0,0,.3), 0 1px 1px #fff, inset 0 1px 2px rgba(0,0,0,.8), inset 0 -1px 0 rgba(0,0,0,.05);
 
 }*/
 

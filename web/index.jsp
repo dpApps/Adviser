@@ -26,19 +26,21 @@
 <div class="page-wrapper">
 
 
-
     <div class="qest"><em><h2><%QHandler handler = new QHandler();%>
         <%=handler.getAnswer()%>
     </h2></em></div>
 
+
     <div class="imgQest"><img src="img/qest.png"/><div id="priv">Задай вопрос вселенскому разуму</div></div>
-    <form id="rest" action="QHandler">
+    <form action="QHandler">
         <div class="vopros">
+
         <center>
-            <i> <h2  id="intro"> Что делать если ? </h2></br>
-            <input type="text" name="question" onfocus="this.value=''"  width="auto" height="auto"/></i>
-          <button id="but1">Узнать ответ!</button>
+            <i> <h2 id="intro"> Что делать если ? </h2></br>
+              <input type="text" name="question" onfocus="this.value=''"  width="auto" height="auto"/></br>
+                 <button id="but1">Узнать ответ!</button></i>
         </center>
+
 </div>
     </form>
 
