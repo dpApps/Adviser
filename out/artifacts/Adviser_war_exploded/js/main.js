@@ -1,13 +1,45 @@
 
 "use strict";
 
+jQuery(document).ready(function () {
+  jQuery("#intro").flipping_text({
+    tickerTime: 10,
+    customRandomChar: false,
+    tickerCount: 10,
+    opacityEffect: true,
+    resetOnChange: false
+  });
+})
+jQuery(document).ready(function () {
+    jQuery("#priv").flipping_text({
+        tickerTime: 10,
+        customRandomChar: false,
+        tickerCount: 10,
+        opacityEffect: true,
+        resetOnChange: false
+    });
+})
 
-jQuery('button').on('click',function(){
+jQuery(document).ready(function () {
+    jQuery(".vopros").fadeIn(4000);
+})
+
+jQuery(document).ready(function () {
+    jQuery(".imgQest").fadeIn(1500);
+})
+jQuery(document).ready(function () {
+    jQuery(".qest").fadeOut(60000);
+})
+
+
+/*jQuery('button').on('click',function(){
 		jQuery('page-wrapper').ready(function(){
 			backgroundImage(fon23.png)
 		
 });
-});
+});*/
+
+
 
 particlesJS("particles-js", {
   "particles": {
@@ -119,6 +151,5 @@ particlesJS("particles-js", {
   },
   "retina_detect": true
 });
-
 
 

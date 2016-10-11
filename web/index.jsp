@@ -13,6 +13,9 @@
     <meta name="viewport" content="width-device-width, initial-scale-1.0"/>
     <title> 3D&Paul </title>
     <link rel="stylesheet" href="css/style.css" media="screen"/>
+
+
+
 </head>
 <body>
 
@@ -22,22 +25,30 @@
 
 <div class="page-wrapper">
 
+
+
     <div class="qest"><em><h2><%QHandler handler = new QHandler();%>
         <%=handler.getAnswer()%>
     </h2></em></div>
-    <div class="imgQest"><img src="img/qest.png"/></div>
-    <form action="QHandler">
+
+    <div class="imgQest"><img src="img/qest.png"/><div id="priv">Задай вопрос вселенскому разуму</div></div>
+    <form id="rest" action="QHandler">
+        <div class="vopros">
         <center>
-            <h1><i>Что делать если <input type="text" name="question" onfocus="this.value=''" width="auto"
-                                          height="auto"/> ? </i></h1>
-            <button>Узнать ответ!</button>
+            <i> <h2  id="intro"> Что делать если ? </h2></br>
+            <input type="text" name="question" onfocus="this.value=''"  width="auto" height="auto"/></i>
+          <button id="but1">Узнать ответ!</button>
         </center>
+</div>
     </form>
+
 </div>
 
-<script src="assets/jquery/jquery-3.1.0.js"></script>
-<script src="assets/particles/particles.js"></script>
-<script src="js/main.js"></script>
+
+<script src="assets/jquery/jquery-3.1.0.js" defer></script>
+<script src="assets/particles/particles.js" defer></script>
+<script src="js/main.js" defer></script>
+<script src="assets/flipping_text-master/jquery.flipping_text.js" defer></script>
 
 </body>
 </html>
