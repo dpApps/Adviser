@@ -28,9 +28,11 @@ public class Situation {
 //    соответствующему методу "тематического" класса
 
     public void searchSubjects() {
-        if (question.contains("спать") || question.contains("не выспал") || question.contains("не высыпа"))
+        if (question.contains("спать") || question.contains("не выспался") || question.contains("не высыпаться"))
             answer = Sleep.answer();
         if (question.contains("машина") || question.contains("автомобиль") || question.contains("тачка"))
             answer = Car.answer();
+        if(question.contains("работа") || question.contains("работать") || question.contains("трудится") || question.contains("вкалывать"))
+            answer = Job.answer();
     }
 }

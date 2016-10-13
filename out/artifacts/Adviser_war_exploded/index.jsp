@@ -9,9 +9,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width-device-width, initial-scale-1.0"/>
-    <title> 3D&Paul </title>
+    <title> 2D&Paul </title>
     <link rel="stylesheet" href="css/style.css" media="screen"/>
 
 
@@ -26,22 +27,19 @@
 <div class="page-wrapper">
 
 
-    <div class="qest"><em><h2><%QHandler handler = new QHandler();%>
-        <%=handler.getAnswer()%>
-    </h2></em></div>
-
 
     <div class="imgQest"><img src="img/qest.png"/><div id="priv">Задай вопрос вселенскому разуму</div></div>
     <form action="QHandler">
         <div class="vopros">
-
+            <div class="vpr">
         <center>
             <i> <h2 id="intro"> Что делать если ? </h2></br>
               <input type="text" name="question" onfocus="this.value=''"  width="auto" height="auto"/></br>
                  <button id="but1">Узнать ответ!</button></i>
         </center>
-
+            </div>
 </div>
+
     </form>
 
 </div>

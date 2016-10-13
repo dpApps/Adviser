@@ -30,7 +30,7 @@ public class QHandler extends javax.servlet.http.HttpServlet {
         answer = situation.getAnswer();
 
 //      после получения ответа, мы обновляем страницу, чтобы на ней появился ответ
-        String redirectURL = "http://localhost:8080/adviser.net/index.jsp";
+        String redirectURL = "http://localhost:8080/adviser.net/index1.jsp";
         response.sendRedirect(redirectURL);
     }
 }

@@ -1,6 +1,12 @@
 
 "use strict";
 
+jQuery(document).ready(function(){
+    jQuery(".page-wrapper1").fadeIn(1000);
+});
+jQuery(document).ready(function(){
+    jQuery(".page-wrapper").fadeIn(1000);
+});
 jQuery(document).ready(function () {
   jQuery("#intro").flipping_text({
     tickerTime: 10,
@@ -10,6 +16,7 @@ jQuery(document).ready(function () {
     resetOnChange: false
   });
 })
+
 jQuery(document).ready(function () {
     jQuery("#priv").flipping_text({
         tickerTime: 10,
@@ -25,11 +32,12 @@ jQuery(document).ready(function () {
 })
 
 jQuery(document).ready(function () {
-    jQuery(".imgQest").fadeIn(1500);
+    jQuery(".imgQest").fadeIn(1000);
 })
 jQuery(document).ready(function () {
-    jQuery(".qest").fadeOut(60000);
+    jQuery(".imgOtvet").fadeIn(1000);
 })
+
 
 
 /*jQuery('button').on('click',function(){

@@ -7,7 +7,31 @@
 @font-face {
     font-family: 'shrift'; src:url('../10146.otf');
 }
+#ship{/*Фон корабля*/
+    /*opacity: 0.3;*/
+    z-index:2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    background-image: url(../img/vid.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 
+}
+#ship1{
+    /*opacity: 0.3;*/
+    z-index:2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    background-image: url(../img/vidOtvet.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 #particles-js {
   position: fixed;
@@ -21,9 +45,8 @@
   background-position: 50% 50%;
   
 }
-
 .page-wrapper{
-    display:block;
+    display:none;
     top:-50px;
     left: 20px;
     max-width:700px;
@@ -35,15 +58,32 @@
     margin:0 auto;
     padding:25px;
     min-height:600px;
+    /*box-shadow:3px 3px 7px black;
+    border-left:1px solid #333;
+    border-right:1px solid #333;*/
+}
+.page-wrapper1{
+    display:none;
+    top:-50px;
+    left: 20px;
+    max-width:700px;
+    position:relative;
+    background-image:url(../img/fon23.png);
+    background-position:center;
+    background-size: 150%;
+    height: auto;
+    margin:0 auto;
+    padding:25px;
+    min-height:600px;
+
 	/*box-shadow:3px 3px 7px black;
 	border-left:1px solid #333;
 	border-right:1px solid #333;*/
-	
 }
 #priv{/*Приветствие*/
     display: block;
     font-family: shrift;
-    font-size: 12px;
+    font-size: 11px;
     position: relative;
     top:-125px;
     left:26px;
@@ -58,26 +98,32 @@
 
 }
 .qest{ /*вывод ответа*/
-    display: block;
-	width:30%;
-	position:relative;
-	left:350px;
-	top:80px;
-	height: auto;
-	margin:0 auto;
-	padding:25px;
-	z-index:1;
-
-}
-
-
-i{/*Что делать если*/
-    display: block;
-    position: fixed;
     font-family: shrift;
     font-size: 10px;
-	top:60%;
-	left:66%;
+    color: red;
+    text-shadow: 0 -1px rgba(0,0,0,.1);
+    text-decoration: none;
+    user-select: none;
+    outline: none;
+    border: none;
+    -webkit-animation: pulsate 1.2s linear infinite;
+    animation: pulsate 1.2s linear infinite;
+    max-width:60%;
+    min-height:60%;
+	position:relative;
+	left:-30px;
+	top:-160px;
+	z-index:1;
+}
+.vpr{
+    display: block;
+    z-index: 35;
+    position: relative;
+    width: 20%;
+    top:60px;
+    left: 60px;
+    font-family: shrift;
+    font-size: 10px;
     color: rgb(245,245,245);
     text-shadow: 0 -1px rgba(0,0,0,.1);
     text-decoration: none;
@@ -86,12 +132,15 @@ i{/*Что делать если*/
     border: none;
     -webkit-animation: pulsate 1.2s linear infinite;
     animation: pulsate 1.2s linear infinite;
+
 }
+
+
 
 .vopros{/*Квадрат с вопросом*/
     display: none;
     opacity: 0.9;
-	z-index:4;
+	z-index:20;
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -106,32 +155,36 @@ i{/*Что делать если*/
     display: none;
 	max-width:400px;
 	position:relative;
-    top:-60px;
+    top:0px;
 	left:300px;
 	height: auto;
 	margin:0 auto;
 	padding:25px;
 	min-height:300px;
 
+
 }
 .imgQest>img{
-	max-width:100%;
-	height:auto;
+    max-width:100%;
+    height:auto;
 }
-
-#ship{/*Фон корабля*/
-	/*opacity: 0.3;*/
-	z-index:2;
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	top:0;
-	left:0;
-	background-image: url(../img/vid.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+.imgOtvet{/*Вывод облачка с ответом*/
+    display: none;
+    position:absolute;
+    top:20px;
+    left:-250px;
+    min-height: 10px;
+    max-width: 80%;
+    padding:25px;
 
 }
+.imgOtvet>img{
+    max-width:90%;
+    height:auto;
+}
+
+
+
 #but1{/*Кнопка ответа*/
     margin: 10px auto;
     width: auto;
@@ -171,31 +224,4 @@ i{/*Что делать если*/
 @keyframes pulsate {
     50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3), 0 0 5px #ffd, 0 0 8px #fff;}
 }
-/*.qestion{
-	position:relative;
-	left:650px;
-	top:-600px;
-	width:50%;
-}*
-.qestion >input{
-	position:relative;
-	width:50%;
-	height:30px;
-	color:red;
-	box-shadow:3px 3px 7px black;
-	border-radius:100px;
-}*/
-
-/*.button{
-    width:50px;
-    height:50px;
-    border-radius:100px;
-    background-color:#01FF01;
-    margin-left:1000px;
-
-
-
-}*/
-
-
 
