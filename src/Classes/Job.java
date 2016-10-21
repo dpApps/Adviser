@@ -23,7 +23,7 @@ public class Job {
 
    }
      static String answer;
-    static String answers;
+
 
           static String answer() throws SQLException {
                DBproccessor db = new DBproccessor();
@@ -35,9 +35,9 @@ public class Job {
                    String name;
                    name = resultSet.getString("job_say");
                    Product product = new Product(name);
-                   answers = product.toString();
+                   answer = product.toString();
                }
-               answer = answers;
+
               return answer;
           }
           }
