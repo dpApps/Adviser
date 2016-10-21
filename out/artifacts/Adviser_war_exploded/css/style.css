@@ -53,6 +53,7 @@
     position:relative;
     background-image:url(../img/fon1.png);
     background-position:center;
+    background-repeat:no-repeat;
     background-size: 150%;
     height: auto;
     margin:0 auto;
@@ -64,6 +65,7 @@
 }
 .page-wrapper1{
     display:none;
+    text-align: center;
     top:-50px;
     left: 20px;
     max-width:700px;
@@ -115,13 +117,13 @@
 	top:-160px;
 	z-index:1;
 }
-.vpr{
-    display: block;
-    z-index: 35;
+#vpr{
     position: relative;
-    width: 20%;
-    top:60px;
-    left: 60px;
+    z-index: 333;
+    max-width: 33%;
+    height: auto;
+    top:50px;
+    left: -30px;
     font-family: shrift;
     font-size: 10px;
     color: rgb(245,245,245);
@@ -134,7 +136,6 @@
     animation: pulsate 1.2s linear infinite;
 
 }
-
 
 
 .vopros{/*Квадрат с вопросом*/

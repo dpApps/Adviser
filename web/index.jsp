@@ -29,17 +29,17 @@
 
 
     <div class="imgQest"><img src="img/qest.png"/><div id="priv">Задай вопрос вселенскому разуму</div></div>
+
     <form action="QHandler">
         <div class="vopros">
-            <div class="vpr">
+            <div id="vpr">
         <center>
             <i> <h2 id="intro"> Что делать если ? </h2></br>
-              <input type="text" name="question" onfocus="this.value=''"  width="auto" height="auto"/></br>
+              <input type="text" name="question" onfocus="this.value=''" width="auto" height="auto"/></br>
                  <button id="but1">Узнать ответ!</button></i>
         </center>
             </div>
-</div>
-
+        </div>
     </form>
 
 </div>
