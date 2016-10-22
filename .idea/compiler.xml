@@ -28,6 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Database" target="1.5" />
+      <module name="Mavennnn" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

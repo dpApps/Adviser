@@ -15,7 +15,7 @@
     height: 100%;
     top:0;
     left:0;
-    background-image: url(../img/vid.png);
+    background-image: url(../img/vid1.png);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -28,7 +28,7 @@
     height: 100%;
     top:0;
     left:0;
-    background-image: url(../img/vidOtvet.png);
+    background-image: url(../img/vidOtvet1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -148,7 +148,7 @@
 	top:50%;
 	left:60%;
 	background-size: 30%;
-	background-image: url(../img/qest7.png);
+	background-image: url(../img/qest8.png);
 	background-repeat: no-repeat;
 }
 

@@ -7,7 +7,6 @@
     <groupId>Databases.Database</groupId>
     <artifactId>Databases.Database</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <dependencies>
         <dependency>
             <groupId>mysql</groupId>
@@ -15,6 +14,6 @@
             <version>5.1.38</version>
         </dependency>
 
-</dependencies>
+    </dependencies>
 
 </project>
