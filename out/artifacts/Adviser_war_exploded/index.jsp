@@ -47,10 +47,11 @@
 </div>
 
 
-<script src="assets/jquery/jquery-3.1.0.js" ></script>
-<script src="js/main.js" ></script>
-<script src="assets/particles/particles.js" ></script>
-<script src="assets/flipping_text-master/jquery.flipping_text.js" ></script>
+<script src="assets/jquery/jquery-3.1.0.js"defer ></script>
+
+<script src="assets/particles/particles.js" defer></script>
+<script src="js/main.js"defer ></script>
+<script src="assets/flipping_text-master/jquery.flipping_text.js"defer ></script>
 
 
 </body>
