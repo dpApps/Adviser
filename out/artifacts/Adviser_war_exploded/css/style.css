@@ -7,6 +7,9 @@
 @font-face {
     font-family: 'shrift'; src:url('../10146.otf');
 }
+@font-face {
+    font-family: 'OtvetShift'; src:url('../9924.ttf');
+}
 #ship{/*Фон корабля*/
     /*opacity: 0.3;*/
     z-index:2;
@@ -39,7 +42,7 @@
   height: 100%;
   top:0;
   left:0;
-  background-image: url(../img/fon3.jpg);
+  background-image: url(../img/3234.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
@@ -100,8 +103,9 @@
 
 }
 .qest{ /*вывод ответа*/
-    font-family: shrift;
-    font-size: 10px;
+
+    font-family: OtvetShift;
+    font-size: 22px;
     color: red;
     text-shadow: 0 -1px rgba(0,0,0,.1);
     text-decoration: none;
@@ -113,17 +117,41 @@
     max-width:60%;
     min-height:60%;
 	position:relative;
-	left:-30px;
-	top:-160px;
+	left:-25px;
+	top:-150px;
 	z-index:1;
+
+}
+
+
+
+
+.vopros{/*Квадрат с вопросом*/
+    opacity: 0.9;
+	z-index:6;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top:50%;
+	left:60%;
+	background-size: 30%;
+	background-image: url(../img/qest8.png);
+	background-repeat: no-repeat;
+
 }
 #vpr{
-    position: relative;
-    z-index: 333;
-    max-width: 33%;
+    z-index:5;
+    display: block;
+    position: fixed;
+    width: 100%;
     height: auto;
-    top:50px;
-    left: -30px;
+    top:57%;
+    left:25%;
+
+    background-repeat: no-repeat;
+
+
+
     font-family: shrift;
     font-size: 10px;
     color: rgb(245,245,245);
@@ -135,21 +163,6 @@
     -webkit-animation: pulsate 1.2s linear infinite;
     animation: pulsate 1.2s linear infinite;
 
-}
-
-
-.vopros{/*Квадрат с вопросом*/
-    display: none;
-    opacity: 0.9;
-	z-index:20;
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	top:50%;
-	left:60%;
-	background-size: 30%;
-	background-image: url(../img/qest8.png);
-	background-repeat: no-repeat;
 }
 
 .imgQest{/*Облачко с вопросом*/
@@ -173,11 +186,10 @@
     display: none;
     position:absolute;
     top:20px;
-    left:-250px;
+    left:-240px;
     min-height: 10px;
     max-width: 80%;
     padding:25px;
-
 }
 .imgOtvet>img{
     max-width:90%;
@@ -187,10 +199,11 @@
 
 
 #but1{/*Кнопка ответа*/
+    position: fixed;
     margin: 10px auto;
     width: auto;
     height: auto;
-    top:70%;
+    top:68%;
     left:70%;
     color: rgb(245,245,245);
     text-shadow: 0 -1px rgba(0,0,0,.1);

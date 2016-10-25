@@ -32,13 +32,15 @@
 
     <form action="QHandler">
         <div class="vopros">
-            <div id="vpr">
+
         <center>
+            <div id="vpr">
             <i> <h2 id="intro"> Что делать если ? </h2></br>
-              <input type="text" name="question" onfocus="this.value=''" width="auto" height="auto"/></br>
+              <input type="text" name="question" /></br>
                  <button id="but1">Узнать ответ!</button></i>
-        </center>
             </div>
+        </center>
+
         </div>
     </form>
 

@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4004f0-41e5-4f87-8de6-f238a1fa39e7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Databases/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Adviser/Databases/Database.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Databases/Database.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Car.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Job.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Job.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/img/qest7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/img/vid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/img/vidOtvet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/qest7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/vid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/vidOtvet.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Situation.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Classes/Situation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Databases/DBproccessor.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Databases/DBproccessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Databases/Product.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Databases/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Servlets/QHandler.class" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/classes/Servlets/QHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Classes/Car.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Classes/Car.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Classes/Job.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Classes/Job.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Classes/Situation.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Classes/Situation.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Databases/DBproccessor.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Databases/DBproccessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Databases/Product.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Databases/Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Adviser/Servlets/QHandler.class" afterPath="$PROJECT_DIR$/out/production/Adviser/Servlets/QHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Adviser_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Adviser_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/0b87997f-c56a-4f81-ac47-f2778665543b.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/0b87997f-c56a-4f81-ac47-f2778665543b.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/pom.xml" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/WEB-INF/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/css/style.css" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Car.java" afterPath="$PROJECT_DIR$/src/Classes/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Job.java" afterPath="$PROJECT_DIR$/src/Classes/Job.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/index1.jsp" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/index1.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/js/main.js" afterPath="$PROJECT_DIR$/out/artifacts/Adviser_war_exploded/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Situation.java" afterPath="$PROJECT_DIR$/src/Classes/Situation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Sleep.java" afterPath="$PROJECT_DIR$/src/Classes/Sleep.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Databases/DBproccessor.java" afterPath="$PROJECT_DIR$/src/Databases/DBproccessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Databases/Product.java" afterPath="$PROJECT_DIR$/src/Databases/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Servlets/QHandler.java" afterPath="$PROJECT_DIR$/src/Servlets/QHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/pom.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="$PROJECT_DIR$/web/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index1.jsp" afterPath="$PROJECT_DIR$/web/index1.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/main.js" afterPath="$PROJECT_DIR$/web/js/main.js" />
     </list>
     <ignored path="Adviser.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,79 +55,13 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="MySQL - basechat@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="id_sleep" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Adviser" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Job.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Job.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1477101802735" expanded="true" signature="793:848" ph="select * fro... id_job" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1477101802677" expanded="true" signature="857:912" ph="select * fro... id_car" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sleep.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Sleep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <marker date="1477101874264" expanded="true" signature="859:916" ph="select * fro... id_sleep" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Situation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Classes/Situation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-              <folding>
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -164,7 +87,6 @@
         <option value="$PROJECT_DIR$/src/Servlets.java" />
         <option value="$PROJECT_DIR$/src/Classes/Work.java" />
         <option value="$PROJECT_DIR$/web/js/main2.js" />
-        <option value="$PROJECT_DIR$/web/js/main.js" />
         <option value="dbtable:/ecacee5c/0cccf67d-30c8-40c0-b814-b83e5c882da5/basechat.id_type" />
         <option value="$PROJECT_DIR$/src/Classes/db.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0cccf67d-30c8-40c0-b814-b83e5c882da5/console.sql" />
@@ -174,9 +96,7 @@
         <option value="$PROJECT_DIR$/Database/pom.xml" />
         <option value="$PROJECT_DIR$/Database/src/main/java/Database.java" />
         <option value="$PROJECT_DIR$/src/Classes/DBproccessor.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/Databases/MainServlets.java" />
-        <option value="$PROJECT_DIR$/web/index1.jsp" />
         <option value="$PROJECT_DIR$/Adviser.iml" />
         <option value="$PROJECT_DIR$/Mavennnn/pom.xml" />
         <option value="$PROJECT_DIR$/Mavennnn/src/main/java/bases.java" />
@@ -186,8 +106,6 @@
         <option value="$PROJECT_DIR$/src/Servlets/bases.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/pom.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/css/style.css" />
-        <option value="$PROJECT_DIR$/src/Classes/Situation.java" />
         <option value="$PROJECT_DIR$/src/Servlets/QHandler.java" />
         <option value="$PROJECT_DIR$/src/Databases/Database.java" />
         <option value="$PROJECT_DIR$/src/Databases/Product.java" />
@@ -195,6 +113,12 @@
         <option value="$PROJECT_DIR$/src/Databases/DBproccessor.java" />
         <option value="$PROJECT_DIR$/src/Classes/Car.java" />
         <option value="$PROJECT_DIR$/src/Classes/Sleep.java" />
+        <option value="$PROJECT_DIR$/src/Classes/Telephone.java" />
+        <option value="$PROJECT_DIR$/web/index1.jsp" />
+        <option value="$PROJECT_DIR$/src/Classes/Situation.java" />
+        <option value="$PROJECT_DIR$/web/js/main.js" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/css/style.css" />
       </list>
     </option>
   </component>
@@ -259,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,6 +212,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adviser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adviser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adviser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adviser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,6 +308,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1056,7 +1016,8 @@
       <workItem from="1477035082919" duration="14184000" />
       <workItem from="1477050880863" duration="1261000" />
       <workItem from="1477056116581" duration="1287000" />
-      <workItem from="1477092482722" duration="9687000" />
+      <workItem from="1477092482722" duration="9804000" />
+      <workItem from="1477380696204" duration="17236000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1473691669640</created>
@@ -1111,7 +1072,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234887000" />
+    <option name="totallyTimeSpent" value="252240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -1126,19 +1087,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33588958" sideWeight="0.34114978" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19515885" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2638037" sideWeight="0.65885025" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15582451" sideWeight="0.47494555" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15582451" sideWeight="0.47494555" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15582451" sideWeight="0.51724136" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641453" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641453" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16717096" sideWeight="0.4936479" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15582451" sideWeight="0.52505445" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29601228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15582451" sideWeight="0.52505445" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1181,14 +1142,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Classes/Work.java" />
-    <entry file="file://$PROJECT_DIR$/web/assets/particles/demo/js/lib/stats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/assets/particles/particles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1216,13 +1169,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/js/main2.js" />
-    <entry file="file://$PROJECT_DIR$/web/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/ecacee5c/0cccf67d-30c8-40c0-b814-b83e5c882da5/basechat.id_type" />
     <entry file="dbDummy://dbtable:/ecacee5c/0cccf67d-30c8-40c0-b814-b83e5c882da5/basechat.id_car" />
     <entry file="dbDummy://dbtable:/ecacee5c/0cccf67d-30c8-40c0-b814-b83e5c882da5/basechat.id_job" />
@@ -1272,18 +1218,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Databases/MainServlets.java" />
-    <entry file="dbDummy://dbtable:/ecacee5c/0b87997f-c56a-4f81-ac47-f2778665543b/basechat.id_job">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basechat_slov_key.sql" />
     <entry file="file://$PROJECT_DIR$/basechat_id_sleep.sql" />
     <entry file="file://$PROJECT_DIR$/basechat_id_job.sql" />
@@ -1293,27 +1227,10 @@
     <entry file="file://$PROJECT_DIR$/src/Servlets/fdds.java" />
     <entry file="file://$PROJECT_DIR$/src/Servlets/bases.java" />
     <entry file="file://$PROJECT_DIR$/src/Servlets/processr.java" />
-    <entry file="file://$PROJECT_DIR$/web/index1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-530">
           <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1321,7 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,7 +1245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,27 +1256,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Databases/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="83" column="3" selection-start-line="10" selection-start-column="0" selection-end-line="83" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Databases/Database.java" />
     <entry file="file://$PROJECT_DIR$/Database.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,7 +1277,7 @@
         <state relative-caret-position="154">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1388,10 +1287,10 @@
         <state relative-caret-position="21">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+            <element signature="e#263#264#0" expanded="false" />
+            <element signature="e#293#294#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1401,11 +1300,11 @@
         <state relative-caret-position="140">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#321#322#0" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+            <element signature="e#414#415#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1436,19 +1335,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Sleep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <marker date="1477101874264" expanded="true" signature="859:916" ph="select * fro... id_sleep" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="98">
           <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1457,25 +1346,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Situation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-          </folding>
+    <entry file="dbDummy://dbtable:/ecacee5c/0b87997f-c56a-4f81-ac47-f2778665543b/basechat.id_job">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Job.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="17">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1477101802735" expanded="true" signature="793:848" ph="select * fro... id_job" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Sleep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="41" column="0" selection-start-line="16" selection-start-column="2" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <marker date="1477101874264" expanded="true" signature="859:916" ph="select * fro... id_sleep" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/ecacee5c/0b87997f-c56a-4f81-ac47-f2778665543b/basechat.id_telephone">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Telephone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1477391998417" expanded="true" signature="837:898" ph="select * fro... id_telephone" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Situation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="42" column="101" selection-start-line="42" selection-start-column="101" selection-end-line="42" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="206" column="11" selection-start-line="206" selection-start-column="11" selection-end-line="206" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

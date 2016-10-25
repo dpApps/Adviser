@@ -26,10 +26,20 @@ jQuery(document).ready(function () {
         resetOnChange: false
     });
 })
+jQuery(document).ready(function () {
+  jQuery(".qest").flipping_text({
+    tickerTime: 3,
+    customRandomChar: false,
+    tickerCount: 10,
+    opacityEffect: true,
+    resetOnChange: false
+  });
+})
 
 jQuery(document).ready(function () {
     jQuery(".vopros").fadeIn(4000);
 })
+
 
 jQuery(document).ready(function () {
     jQuery(".imgQest").fadeIn(1000);

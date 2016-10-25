@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Refresh" content="4; url=http://localhost:8080/adviser.net/index.jsp"/>
+    <meta http-equiv="Refresh" content="5; url=http://localhost:8080/adviser.net/index.jsp"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width-device-width, initial-scale-1.0"/>
     <title> 2D&Paul </title>

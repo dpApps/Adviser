@@ -31,12 +31,16 @@ public class Situation {
 //    соответствующему методу "тематического" класса
 
     public void searchSubjects() throws SQLException, ClassNotFoundException {
-       if (question.contains("спать") || question.contains("не выспался") || question.contains("не высыпаться"))
-            answer = Sleep.answer();
-        if (question.contains("машина") || question.contains("автомобиль") || question.contains("тачка"))
+       if (question.contains("спать") || question.contains("не выспался") || question.contains("не высыпаться") || question.contains("отдыхать") || question.contains("дрыхнуть") || question.contains("баиньки") || question.contains("засыпать") || question.contains("прилечь") || question.contains("уснуть") || question.contains("сонное царство") || question.contains("спатиньки") || question.contains("посплю") || question.contains("поспать"))
+           answer = Sleep.answer();
+        if (question.contains("машина") || question.contains("автомобиль") || question.contains("тачка") || question.contains("авто") || question.contains("развалюха") || question.contains("автомашина"))
             answer = Car.answer();
-         if(question.contains("работа") || question.contains("работать") || question.contains("трудится") || question.contains("вкалывать"))
+         if(question.contains("работа") || question.contains("работать") || question.contains("трудится") || question.contains("вкалывать") || question.contains("труд") || question.contains("работка") || question.contains("подработка") || question.contains("работенка") || question.contains("должность") || question.contains("въебывать"))
                answer = Job.answer();
-
+            if(question.contains("телефон") || question.contains("мобила"))
+                answer = Telephone.answer();
+                else{
+                    //Создать и написать класс в который надо обращаться если пользователь пишет чушь
+            }
     }
 }
