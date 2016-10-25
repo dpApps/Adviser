@@ -36,7 +36,7 @@
         <center>
             <div id="vpr">
             <i> <h2 id="intro"> Что делать если ? </h2></br>
-              <input type="text" name="question" /></br>
+              <input type="text" name="question" onfocus="this.value" placeholder="Напишите вопрос тут" /></br>
                  <button id="but1">Узнать ответ!</button></i>
             </div>
         </center>
@@ -47,10 +47,11 @@
 </div>
 
 
-<script src="assets/jquery/jquery-3.1.0.js" defer></script>
-<script src="assets/particles/particles.js" defer></script>
-<script src="js/main.js" defer></script>
-<script src="assets/flipping_text-master/jquery.flipping_text.js" defer></script>
+<script src="assets/jquery/jquery-3.1.0.js" ></script>
+<script src="js/main.js" ></script>
+<script src="assets/particles/particles.js" ></script>
+<script src="assets/flipping_text-master/jquery.flipping_text.js" ></script>
+
 
 </body>
 </html>

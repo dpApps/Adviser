@@ -1,5 +1,8 @@
 
 "use strict";
+jQuery(document).ready(function () {
+  jQuery(".vopros").fadeIn(5000);
+})
 
 jQuery(document).ready(function(){
     jQuery(".page-wrapper1").fadeIn(1000);
@@ -36,9 +39,6 @@ jQuery(document).ready(function () {
   });
 })
 
-jQuery(document).ready(function () {
-    jQuery(".vopros").fadeIn(4000);
-})
 
 
 jQuery(document).ready(function () {

@@ -37,7 +37,7 @@ public class Situation {
             answer = Car.answer();
          if(question.contains("работа") || question.contains("работать") || question.contains("трудится") || question.contains("вкалывать") || question.contains("труд") || question.contains("работка") || question.contains("подработка") || question.contains("работенка") || question.contains("должность") || question.contains("въебывать"))
                answer = Job.answer();
-            if(question.contains("телефон") || question.contains("мобила"))
+            if(question.contains("телефон") || question.contains("мобила") || question.contains("мобильник") || question.contains("сотовый") || question.contains("телефончик") || question.contains("таксофон"))
                 answer = Telephone.answer();
                 else{
                     //Создать и написать класс в который надо обращаться если пользователь пишет чушь
