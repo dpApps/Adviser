@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c4004f0-41e5-4f87-8de6-f238a1fa39e7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/fon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/vid1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img/vidOtvet1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/fon1.png" afterPath="$PROJECT_DIR$/web/img/fon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/fon23.png" afterPath="$PROJECT_DIR$/web/img/fon23.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/obot.png" afterPath="$PROJECT_DIR$/web/img/obot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/qest.png" afterPath="$PROJECT_DIR$/web/img/qest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img/qest8.png" afterPath="$PROJECT_DIR$/web/img/qest8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Classes/Situation.java" afterPath="$PROJECT_DIR$/src/Classes/Situation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="$PROJECT_DIR$/web/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/main.js" afterPath="$PROJECT_DIR$/web/js/main.js" />
-    </list>
+    <list default="true" id="3c4004f0-41e5-4f87-8de6-f238a1fa39e7" name="Default" comment="" />
     <ignored path="Adviser.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1093,7 +1079,7 @@
       <workItem from="1477056116581" duration="1287000" />
       <workItem from="1477092482722" duration="9804000" />
       <workItem from="1477380696204" duration="18712000" />
-      <workItem from="1477404912009" duration="7196000" />
+      <workItem from="1477404912009" duration="7235000" />
     </task>
     <task id="LOCAL-00001" summary="/">
       <created>1473691669640</created>
@@ -1148,7 +1134,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260912000" />
+    <option name="totallyTimeSpent" value="260951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
