@@ -23,11 +23,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Adviser" />
         <module name="Database" />
+        <module name="Databases.Database" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Adviser" target="1.5" />
       <module name="Database" target="1.5" />
+      <module name="Databases.Database" target="1.5" />
       <module name="Mavennnn" target="1.5" />
     </bytecodeTargetLevel>
   </component>

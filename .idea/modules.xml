@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adviser.iml" filepath="$PROJECT_DIR$/Adviser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/WEB-INF/Databases.Database.iml" filepath="$PROJECT_DIR$/web/WEB-INF/Databases.Database.iml" />
     </modules>
   </component>
 </project>
